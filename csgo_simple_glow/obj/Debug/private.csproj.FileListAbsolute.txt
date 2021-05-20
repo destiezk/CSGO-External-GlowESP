@@ -1,0 +1,9 @@
+E:\refihuk\csgo_simple_glow\bin\Debug\GlowESP.exe.config
+E:\refihuk\csgo_simple_glow\obj\Debug\private.csprojResolveAssemblyReference.cache
+E:\refihuk\csgo_simple_glow\obj\Debug\csgo_simple_glow.Form1.resources
+E:\refihuk\csgo_simple_glow\obj\Debug\csgo_simple_glow.Properties.Resources.resources
+E:\refihuk\csgo_simple_glow\obj\Debug\private.csproj.GenerateResource.Cache
+E:\refihuk\csgo_simple_glow\bin\Debug\GlowESP.exe
+E:\refihuk\csgo_simple_glow\bin\Debug\GlowESP.pdb
+E:\refihuk\csgo_simple_glow\obj\Debug\GlowESP.exe
+E:\refihuk\csgo_simple_glow\obj\Debug\GlowESP.pdb
